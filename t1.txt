@@ -1,1 +1,0 @@
-ekoo git status
