@@ -4,6 +4,10 @@ Anita esta aqui :D
 Anita vulve sins er colaborador U_U
 Experimento 1
 MASTER1
+<<<<<<< HEAD
 
 master2
+=======
+Experimento2
+>>>>>>> Experimento2
 mañana no s nfocaremos en su vida laboral
